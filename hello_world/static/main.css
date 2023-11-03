@@ -17,11 +17,7 @@ body {
   }
   
   .App-logo {
-<<<<<<< HEAD
-    height: 40vmin;
-=======
     height: 100vmin;
->>>>>>> 4a5cfd9 (m)
     pointer-events: none;
   }
   
@@ -47,8 +43,6 @@ body {
   .small {
     font-size: 0.75rem;
   }
-<<<<<<< HEAD
-=======
 
   .Image2 {
     position: fixed;
@@ -60,4 +54,3 @@ body {
     color: #ff0000;
 
   }
->>>>>>> 4a5cfd9 (m)
